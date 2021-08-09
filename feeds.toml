@@ -1,13 +1,7 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[v8blog]
+title = "V8 blog"
+url = "https://v8.dev/blog"
+entrySelector = "#main > ol li"
+dateSelector = "time"
+titleSelector = "a, :not(.tag)"
+linkSelector =  "a, :not(.tag)"
