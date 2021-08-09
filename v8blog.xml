@@ -1,893 +1,894 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://CeleritasCelery.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-08-09T22:15:26.420Z</updated>
+    <id>https://v8.dev/blog</id>
+    <title>V8 blog</title>
+    <updated>2021-08-09T22:15:26.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://v8.dev/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[V8 release v9.3 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v9.3]]></title>
         <id>https://v8.dev/blog/v8-release-93</id>
         <link href="https://v8.dev/blog/v8-release-93"/>
         <updated>2021-08-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-93">V8 release v9.3</a> <time datetime="2021-08-09">09 August 2021</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v9.2 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v9.2]]></title>
         <id>https://v8.dev/blog/v8-release-92</id>
         <link href="https://v8.dev/blog/v8-release-92"/>
         <updated>2021-07-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-92">V8 release v9.2</a> <time datetime="2021-07-16">16 July 2021</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sparkplug — a non-optimizing JavaScript compiler (V8 blog)]]></title>
+        <title type="html"><![CDATA[Sparkplug — a non-optimizing JavaScript compiler]]></title>
         <id>https://v8.dev/blog/sparkplug</id>
         <link href="https://v8.dev/blog/sparkplug"/>
         <updated>2021-05-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/sparkplug">Sparkplug — a non-optimizing JavaScript compiler</a> <time datetime="2021-05-27">27 May 2021</time> <a href="/blog/tags/javascript" class="tag">JavaScript</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Short builtin calls (V8 blog)]]></title>
+        <title type="html"><![CDATA[Short builtin calls]]></title>
         <id>https://v8.dev/blog/short-builtin-calls</id>
         <link href="https://v8.dev/blog/short-builtin-calls"/>
         <updated>2021-05-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/short-builtin-calls">Short builtin calls</a> <time datetime="2021-05-06">06 May 2021</time> <a href="/blog/tags/javascript" class="tag">JavaScript</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v9.1 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v9.1]]></title>
         <id>https://v8.dev/blog/v8-release-91</id>
         <link href="https://v8.dev/blog/v8-release-91"/>
         <updated>2021-05-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-91">V8 release v9.1</a> <time datetime="2021-05-04">04 May 2021</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v9.0 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v9.0]]></title>
         <id>https://v8.dev/blog/v8-release-90</id>
         <link href="https://v8.dev/blog/v8-release-90"/>
         <updated>2021-03-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-90">V8 release v9.0</a> <time datetime="2021-03-17">17 March 2021</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faster releases (V8 blog)]]></title>
+        <title type="html"><![CDATA[Faster releases]]></title>
         <id>https://v8.dev/blog/faster-releases</id>
         <link href="https://v8.dev/blog/faster-releases"/>
         <updated>2021-03-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/faster-releases">Faster releases</a> <time datetime="2021-03-04">04 March 2021</time>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Super fast super property access (V8 blog)]]></title>
+        <title type="html"><![CDATA[Super fast super property access]]></title>
         <id>https://v8.dev/blog/fast-super</id>
         <link href="https://v8.dev/blog/fast-super"/>
         <updated>2021-02-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/fast-super">Super fast <code>super</code> property access</a> <time datetime="2021-02-18">18 February 2021</time> <a href="/blog/tags/javascript" class="tag">JavaScript</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faster JavaScript calls (V8 blog)]]></title>
+        <title type="html"><![CDATA[Faster JavaScript calls]]></title>
         <id>https://v8.dev/blog/adaptor-frame</id>
         <link href="https://v8.dev/blog/adaptor-frame"/>
         <updated>2021-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/adaptor-frame">Faster JavaScript calls</a> <time datetime="2021-02-15">15 February 2021</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v8.9 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v8.9]]></title>
         <id>https://v8.dev/blog/v8-release-89</id>
         <link href="https://v8.dev/blog/v8-release-89"/>
         <updated>2021-02-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-89">V8 release v8.9</a> <time datetime="2021-02-04">04 February 2021</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An additional non-backtracking RegExp engine (V8 blog)]]></title>
+        <title type="html"><![CDATA[An additional non-backtracking RegExp engine]]></title>
         <id>https://v8.dev/blog/non-backtracking-regexp</id>
         <link href="https://v8.dev/blog/non-backtracking-regexp"/>
         <updated>2021-01-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/non-backtracking-regexp">An additional non-backtracking RegExp engine</a> <time datetime="2021-01-11">11 January 2021</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/regexp" class="tag">RegExp</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v8.7 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v8.7]]></title>
         <id>https://v8.dev/blog/v8-release-87</id>
         <link href="https://v8.dev/blog/v8-release-87"/>
         <updated>2020-10-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-87">V8 release v8.7</a> <time datetime="2020-10-23">23 October 2020</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Indicium: V8 runtime tracer tool (V8 blog)]]></title>
+        <title type="html"><![CDATA[Indicium: V8 runtime tracer tool]]></title>
         <id>https://v8.dev/blog/system-analyzer</id>
         <link href="https://v8.dev/blog/system-analyzer"/>
         <updated>2020-10-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/system-analyzer">Indicium: V8 runtime tracer tool</a> <time datetime="2020-10-01">01 October 2020</time> <a href="/blog/tags/tools" class="tag">tools</a> <a href="/blog/tags/system-analyzer" class="tag">system-analyzer</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slack tracking in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Slack tracking in V8]]></title>
         <id>https://v8.dev/blog/slack-tracking</id>
         <link href="https://v8.dev/blog/slack-tracking"/>
         <updated>2020-09-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/slack-tracking">Slack tracking in V8</a> <time datetime="2020-09-24">24 September 2020</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v8.6 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v8.6]]></title>
         <id>https://v8.dev/blog/v8-release-86</id>
         <link href="https://v8.dev/blog/v8-release-86"/>
         <updated>2020-09-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-86">V8 release v8.6</a> <time datetime="2020-09-21">21 September 2020</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v8.5 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v8.5]]></title>
         <id>https://v8.dev/blog/v8-release-85</id>
         <link href="https://v8.dev/blog/v8-release-85"/>
         <updated>2020-07-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-85">V8 release v8.5</a> <time datetime="2020-07-21">21 July 2020</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v8.4 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v8.4]]></title>
         <id>https://v8.dev/blog/v8-release-84</id>
         <link href="https://v8.dev/blog/v8-release-84"/>
         <updated>2020-06-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-84">V8 release v8.4</a> <time datetime="2020-06-30">30 June 2020</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[High-performance garbage collection for C++ (V8 blog)]]></title>
+        <title type="html"><![CDATA[High-performance garbage collection for C++]]></title>
         <id>https://v8.dev/blog/high-performance-cpp-gc</id>
         <link href="https://v8.dev/blog/high-performance-cpp-gc"/>
         <updated>2020-05-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/high-performance-cpp-gc">High-performance garbage collection for C++</a> <time datetime="2020-05-26">26 May 2020</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/memory" class="tag">memory</a> <a href="/blog/tags/cppgc" class="tag">cppgc</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding the ECMAScript spec, part 4 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Understanding the ECMAScript spec, part 4]]></title>
         <id>https://v8.dev/blog/understanding-ecmascript-part-4</id>
         <link href="https://v8.dev/blog/understanding-ecmascript-part-4"/>
         <updated>2020-05-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/understanding-ecmascript-part-4">Understanding the ECMAScript spec, part 4</a> <time datetime="2020-05-19">19 May 2020</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/understanding-ecmascript" class="tag">Understanding ECMAScript</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Up to 4GB of memory in WebAssembly (V8 blog)]]></title>
+        <title type="html"><![CDATA[Up to 4GB of memory in WebAssembly]]></title>
         <id>https://v8.dev/blog/4gb-wasm-memory</id>
         <link href="https://v8.dev/blog/4gb-wasm-memory"/>
         <updated>2020-05-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/4gb-wasm-memory">Up to 4GB of memory in WebAssembly</a> <time datetime="2020-05-14">14 May 2020</time> <a href="/blog/tags/webassembly" class="tag">WebAssembly</a> <a href="/blog/tags/javascript" class="tag">JavaScript</a> <a href="/blog/tags/tooling" class="tag">tooling</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v8.3 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v8.3]]></title>
         <id>https://v8.dev/blog/v8-release-83</id>
         <link href="https://v8.dev/blog/v8-release-83"/>
         <updated>2020-05-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-83">V8 release v8.3</a> <time datetime="2020-05-04">04 May 2020</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s in that .wasm? Introducing: wasm-decompile (V8 blog)]]></title>
+        <title type="html"><![CDATA[What’s in that .wasm? Introducing: wasm-decompile]]></title>
         <id>https://v8.dev/blog/wasm-decompile</id>
         <link href="https://v8.dev/blog/wasm-decompile"/>
         <updated>2020-04-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/wasm-decompile">What’s in that <code>.wasm</code>? Introducing: <code>wasm-decompile</code></a> <time datetime="2020-04-27">27 April 2020</time> <a href="/blog/tags/webassembly" class="tag">WebAssembly</a> <a href="/blog/tags/tooling" class="tag">tooling</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding the ECMAScript spec, part 3 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Understanding the ECMAScript spec, part 3]]></title>
         <id>https://v8.dev/blog/understanding-ecmascript-part-3</id>
         <link href="https://v8.dev/blog/understanding-ecmascript-part-3"/>
         <updated>2020-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/understanding-ecmascript-part-3">Understanding the ECMAScript spec, part 3</a> <time datetime="2020-04-01">01 April 2020</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/understanding-ecmascript" class="tag">Understanding ECMAScript</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pointer Compression in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Pointer Compression in V8]]></title>
         <id>https://v8.dev/blog/pointer-compression</id>
         <link href="https://v8.dev/blog/pointer-compression"/>
         <updated>2020-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/pointer-compression">Pointer Compression in V8</a> <time datetime="2020-03-30">30 March 2020</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/memory" class="tag">memory</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding the ECMAScript spec, part 2 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Understanding the ECMAScript spec, part 2]]></title>
         <id>https://v8.dev/blog/understanding-ecmascript-part-2</id>
         <link href="https://v8.dev/blog/understanding-ecmascript-part-2"/>
         <updated>2020-03-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/understanding-ecmascript-part-2">Understanding the ECMAScript spec, part 2</a> <time datetime="2020-03-02">02 March 2020</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/understanding-ecmascript" class="tag">Understanding ECMAScript</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v8.1 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v8.1]]></title>
         <id>https://v8.dev/blog/v8-release-81</id>
         <link href="https://v8.dev/blog/v8-release-81"/>
         <updated>2020-02-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-81">V8 release v8.1</a> <time datetime="2020-02-25">25 February 2020</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding the ECMAScript spec, part 1 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Understanding the ECMAScript spec, part 1]]></title>
         <id>https://v8.dev/blog/understanding-ecmascript-part-1</id>
         <link href="https://v8.dev/blog/understanding-ecmascript-part-1"/>
         <updated>2020-02-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/understanding-ecmascript-part-1">Understanding the ECMAScript spec, part 1</a> <time datetime="2020-02-03">03 February 2020</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/understanding-ecmascript" class="tag">Understanding ECMAScript</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v8.0 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v8.0]]></title>
         <id>https://v8.dev/blog/v8-release-80</id>
         <link href="https://v8.dev/blog/v8-release-80"/>
         <updated>2019-12-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-80">V8 release v8.0</a> <time datetime="2019-12-18">18 December 2019</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Outside the web: standalone WebAssembly binaries using Emscripten (V8 blog)]]></title>
+        <title type="html"><![CDATA[Outside the web: standalone WebAssembly binaries using Emscripten]]></title>
         <id>https://v8.dev/blog/emscripten-standalone-wasm</id>
         <link href="https://v8.dev/blog/emscripten-standalone-wasm"/>
         <updated>2019-11-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/emscripten-standalone-wasm">Outside the web: standalone WebAssembly binaries using Emscripten</a> <time datetime="2019-11-21">21 November 2019</time> <a href="/blog/tags/webassembly" class="tag">WebAssembly</a> <a href="/blog/tags/tooling" class="tag">tooling</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v7.9 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v7.9]]></title>
         <id>https://v8.dev/blog/v8-release-79</id>
         <link href="https://v8.dev/blog/v8-release-79"/>
         <updated>2019-11-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-79">V8 release v7.9</a> <time datetime="2019-11-20">20 November 2019</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving V8 regular expressions (V8 blog)]]></title>
+        <title type="html"><![CDATA[Improving V8 regular expressions]]></title>
         <id>https://v8.dev/blog/regexp-tier-up</id>
         <link href="https://v8.dev/blog/regexp-tier-up"/>
         <updated>2019-10-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/regexp-tier-up">Improving V8 regular expressions</a> <time datetime="2019-10-04">04 October 2019</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/regexp" class="tag">RegExp</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v7.8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v7.8]]></title>
         <id>https://v8.dev/blog/v8-release-78</id>
         <link href="https://v8.dev/blog/v8-release-78"/>
         <updated>2019-09-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-78">V8 release v7.8</a> <time datetime="2019-09-27">27 September 2019</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A lighter V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[A lighter V8]]></title>
         <id>https://v8.dev/blog/v8-lite</id>
         <link href="https://v8.dev/blog/v8-lite"/>
         <updated>2019-09-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-lite">A lighter V8</a> <time datetime="2019-09-12">12 September 2019</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/memory" class="tag">memory</a> <a href="/blog/tags/presentations" class="tag">presentations</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The story of a V8 performance cliff in React (V8 blog)]]></title>
+        <title type="html"><![CDATA[The story of a V8 performance cliff in React]]></title>
         <id>https://v8.dev/blog/react-cliff</id>
         <link href="https://v8.dev/blog/react-cliff"/>
         <updated>2019-08-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/react-cliff">The story of a V8 performance cliff in React</a> <time datetime="2019-08-28">28 August 2019</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/presentations" class="tag">presentations</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v7.7 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v7.7]]></title>
         <id>https://v8.dev/blog/v8-release-77</id>
         <link href="https://v8.dev/blog/v8-release-77"/>
         <updated>2019-08-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-77">V8 release v7.7</a> <time datetime="2019-08-13">13 August 2019</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emscripten and the LLVM WebAssembly backend (V8 blog)]]></title>
+        <title type="html"><![CDATA[Emscripten and the LLVM WebAssembly backend]]></title>
         <id>https://v8.dev/blog/emscripten-llvm-wasm</id>
         <link href="https://v8.dev/blog/emscripten-llvm-wasm"/>
         <updated>2019-07-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/emscripten-llvm-wasm">Emscripten and the LLVM WebAssembly backend</a> <time datetime="2019-07-01">01 July 2019</time> <a href="/blog/tags/webassembly" class="tag">WebAssembly</a> <a href="/blog/tags/tooling" class="tag">tooling</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The cost of JavaScript in 2019 (V8 blog)]]></title>
+        <title type="html"><![CDATA[The cost of JavaScript in 2019]]></title>
         <id>https://v8.dev/blog/cost-of-javascript-2019</id>
         <link href="https://v8.dev/blog/cost-of-javascript-2019"/>
         <updated>2019-06-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/cost-of-javascript-2019">The cost of JavaScript in 2019</a> <time datetime="2019-06-25">25 June 2019</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/parsing" class="tag">parsing</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v7.6 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v7.6]]></title>
         <id>https://v8.dev/blog/v8-release-76</id>
         <link href="https://v8.dev/blog/v8-release-76"/>
         <updated>2019-06-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-76">V8 release v7.6</a> <time datetime="2019-06-19">19 June 2019</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code caching for WebAssembly developers (V8 blog)]]></title>
+        <title type="html"><![CDATA[Code caching for WebAssembly developers]]></title>
         <id>https://v8.dev/blog/wasm-code-caching</id>
         <link href="https://v8.dev/blog/wasm-code-caching"/>
         <updated>2019-06-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/wasm-code-caching">Code caching for WebAssembly developers</a> <time datetime="2019-06-17">17 June 2019</time> <a href="/blog/tags/webassembly" class="tag">WebAssembly</a> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v7.5 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v7.5]]></title>
         <id>https://v8.dev/blog/v8-release-75</id>
         <link href="https://v8.dev/blog/v8-release-75"/>
         <updated>2019-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-75">V8 release v7.5</a> <time datetime="2019-05-16">16 May 2019</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faster and more feature-rich internationalization APIs (V8 blog)]]></title>
+        <title type="html"><![CDATA[Faster and more feature-rich internationalization APIs]]></title>
         <id>https://v8.dev/blog/intl</id>
         <link href="https://v8.dev/blog/intl"/>
         <updated>2019-04-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/intl">Faster and more feature-rich internationalization APIs</a> <time datetime="2019-04-25">25 April 2019</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/intl" class="tag">Intl</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A year with Spectre: a V8 perspective (V8 blog)]]></title>
+        <title type="html"><![CDATA[A year with Spectre: a V8 perspective]]></title>
         <id>https://v8.dev/blog/spectre</id>
         <link href="https://v8.dev/blog/spectre"/>
         <updated>2019-04-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/spectre">A year with Spectre: a V8 perspective</a> <time datetime="2019-04-23">23 April 2019</time> <a href="/blog/tags/security" class="tag">security</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blazingly fast parsing, part 2: lazy parsing (V8 blog)]]></title>
+        <title type="html"><![CDATA[Blazingly fast parsing, part 2: lazy parsing]]></title>
         <id>https://v8.dev/blog/preparser</id>
         <link href="https://v8.dev/blog/preparser"/>
         <updated>2019-04-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/preparser">Blazingly fast parsing, part 2: lazy parsing</a> <time datetime="2019-04-15">15 April 2019</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/parsing" class="tag">parsing</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code caching for JavaScript developers (V8 blog)]]></title>
+        <title type="html"><![CDATA[Code caching for JavaScript developers]]></title>
         <id>https://v8.dev/blog/code-caching-for-devs</id>
         <link href="https://v8.dev/blog/code-caching-for-devs"/>
         <updated>2019-04-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/code-caching-for-devs">Code caching for JavaScript developers</a> <time datetime="2019-04-08">08 April 2019</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blazingly fast parsing, part 1: optimizing the scanner (V8 blog)]]></title>
+        <title type="html"><![CDATA[Blazingly fast parsing, part 1: optimizing the scanner]]></title>
         <id>https://v8.dev/blog/scanner</id>
         <link href="https://v8.dev/blog/scanner"/>
         <updated>2019-03-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/scanner">Blazingly fast parsing, part 1: optimizing the scanner</a> <time datetime="2019-03-25">25 March 2019</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/parsing" class="tag">parsing</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v7.4 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v7.4]]></title>
         <id>https://v8.dev/blog/v8-release-74</id>
         <link href="https://v8.dev/blog/v8-release-74"/>
         <updated>2019-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-74">V8 release v7.4</a> <time datetime="2019-03-22">22 March 2019</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JIT-less V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[JIT-less V8]]></title>
         <id>https://v8.dev/blog/jitless</id>
         <link href="https://v8.dev/blog/jitless"/>
         <updated>2019-03-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/jitless">JIT-less V8</a> <time datetime="2019-03-13">13 March 2019</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v7.3 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v7.3]]></title>
         <id>https://v8.dev/blog/v8-release-73</id>
         <link href="https://v8.dev/blog/v8-release-73"/>
         <updated>2019-02-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-73">V8 release v7.3</a> <time datetime="2019-02-07">07 February 2019</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trash talk: the Orinoco garbage collector (V8 blog)]]></title>
+        <title type="html"><![CDATA[Trash talk: the Orinoco garbage collector]]></title>
         <id>https://v8.dev/blog/trash-talk</id>
         <link href="https://v8.dev/blog/trash-talk"/>
         <updated>2019-01-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/trash-talk">Trash talk: the Orinoco garbage collector</a> <time datetime="2019-01-03">03 January 2019</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/memory" class="tag">memory</a> <a href="/blog/tags/presentations" class="tag">presentations</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v7.2 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v7.2]]></title>
         <id>https://v8.dev/blog/v8-release-72</id>
         <link href="https://v8.dev/blog/v8-release-72"/>
         <updated>2018-12-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-72">V8 release v7.2</a> <time datetime="2018-12-18">18 December 2018</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Speeding up spread elements (V8 blog)]]></title>
+        <title type="html"><![CDATA[Speeding up spread elements]]></title>
         <id>https://v8.dev/blog/spread-elements</id>
         <link href="https://v8.dev/blog/spread-elements"/>
         <updated>2018-12-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/spread-elements">Speeding up spread elements</a> <time datetime="2018-12-04">04 December 2018</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/benchmarks" class="tag">benchmarks</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faster async functions and promises (V8 blog)]]></title>
+        <title type="html"><![CDATA[Faster async functions and promises]]></title>
         <id>https://v8.dev/blog/fast-async</id>
         <link href="https://v8.dev/blog/fast-async"/>
         <updated>2018-11-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/fast-async">Faster async functions and promises</a> <time datetime="2018-11-12">12 November 2018</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/benchmarks" class="tag">benchmarks</a> <a href="/blog/tags/presentations" class="tag">presentations</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v7.1 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v7.1]]></title>
         <id>https://v8.dev/blog/v8-release-71</id>
         <link href="https://v8.dev/blog/v8-release-71"/>
         <updated>2018-10-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-71">V8 release v7.1</a> <time datetime="2018-10-31">31 October 2018</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v7.0 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v7.0]]></title>
         <id>https://v8.dev/blog/v8-release-70</id>
         <link href="https://v8.dev/blog/v8-release-70"/>
         <updated>2018-10-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-70">V8 release v7.0</a> <time datetime="2018-10-15">15 October 2018</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting things sorted in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Getting things sorted in V8]]></title>
         <id>https://v8.dev/blog/array-sort</id>
         <link href="https://v8.dev/blog/array-sort"/>
         <updated>2018-09-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/array-sort">Getting things sorted in V8</a> <time datetime="2018-09-28">28 September 2018</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving DataView performance in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Improving DataView performance in V8]]></title>
         <id>https://v8.dev/blog/dataview</id>
         <link href="https://v8.dev/blog/dataview"/>
         <updated>2018-09-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/dataview">Improving <code>DataView</code> performance in V8</a> <time datetime="2018-09-18">18 September 2018</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/benchmarks" class="tag">benchmarks</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Celebrating 10 years of V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Celebrating 10 years of V8]]></title>
         <id>https://v8.dev/blog/10-years</id>
         <link href="https://v8.dev/blog/10-years"/>
         <updated>2018-09-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/10-years">Celebrating 10 years of V8</a> <time datetime="2018-09-11">11 September 2018</time> <a href="/blog/tags/benchmarks" class="tag">benchmarks</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liftoff: a new baseline compiler for WebAssembly in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Liftoff: a new baseline compiler for WebAssembly in V8]]></title>
         <id>https://v8.dev/blog/liftoff</id>
         <link href="https://v8.dev/blog/liftoff"/>
         <updated>2018-08-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/liftoff">Liftoff: a new baseline compiler for WebAssembly in V8</a> <time datetime="2018-08-20">20 August 2018</time> <a href="/blog/tags/webassembly" class="tag">WebAssembly</a> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Embedded builtins (V8 blog)]]></title>
+        <title type="html"><![CDATA[Embedded builtins]]></title>
         <id>https://v8.dev/blog/embedded-builtins</id>
         <link href="https://v8.dev/blog/embedded-builtins"/>
         <updated>2018-08-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/embedded-builtins">Embedded builtins</a> <time datetime="2018-08-14">14 August 2018</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v6.9 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v6.9]]></title>
         <id>https://v8.dev/blog/v8-release-69</id>
         <link href="https://v8.dev/blog/v8-release-69"/>
         <updated>2018-08-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-69">V8 release v6.9</a> <time datetime="2018-08-07">07 August 2018</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v6.8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v6.8]]></title>
         <id>https://v8.dev/blog/v8-release-68</id>
         <link href="https://v8.dev/blog/v8-release-68"/>
         <updated>2018-06-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-68">V8 release v6.8</a> <time datetime="2018-06-21">21 June 2018</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Concurrent marking in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Concurrent marking in V8]]></title>
         <id>https://v8.dev/blog/concurrent-marking</id>
         <link href="https://v8.dev/blog/concurrent-marking"/>
         <updated>2018-06-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/concurrent-marking">Concurrent marking in V8</a> <time datetime="2018-06-11">11 June 2018</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/memory" class="tag">memory</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v6.7 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v6.7]]></title>
         <id>https://v8.dev/blog/v8-release-67</id>
         <link href="https://v8.dev/blog/v8-release-67"/>
         <updated>2018-05-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-67">V8 release v6.7</a> <time datetime="2018-05-04">04 May 2018</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding BigInts to V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Adding BigInts to V8]]></title>
         <id>https://v8.dev/blog/bigint</id>
         <link href="https://v8.dev/blog/bigint"/>
         <updated>2018-05-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/bigint">Adding BigInts to V8</a> <time datetime="2018-05-02">02 May 2018</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improved code caching (V8 blog)]]></title>
+        <title type="html"><![CDATA[Improved code caching]]></title>
         <id>https://v8.dev/blog/improved-code-caching</id>
         <link href="https://v8.dev/blog/improved-code-caching"/>
         <updated>2018-04-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/improved-code-caching">Improved code caching</a> <time datetime="2018-04-24">24 April 2018</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v6.6 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v6.6]]></title>
         <id>https://v8.dev/blog/v8-release-66</id>
         <link href="https://v8.dev/blog/v8-release-66"/>
         <updated>2018-03-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-66">V8 release v6.6</a> <time datetime="2018-03-27">27 March 2018</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Background compilation (V8 blog)]]></title>
+        <title type="html"><![CDATA[Background compilation]]></title>
         <id>https://v8.dev/blog/background-compilation</id>
         <link href="https://v8.dev/blog/background-compilation"/>
         <updated>2018-03-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/background-compilation">Background compilation</a> <time datetime="2018-03-26">26 March 2018</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tracing from JS to the DOM and back again (V8 blog)]]></title>
+        <title type="html"><![CDATA[Tracing from JS to the DOM and back again]]></title>
         <id>https://v8.dev/blog/tracing-js-dom</id>
         <link href="https://v8.dev/blog/tracing-js-dom"/>
         <updated>2018-03-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/tracing-js-dom">Tracing from JS to the DOM and back again</a> <time datetime="2018-03-01">01 March 2018</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/memory" class="tag">memory</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lazy deserialization (V8 blog)]]></title>
+        <title type="html"><![CDATA[Lazy deserialization]]></title>
         <id>https://v8.dev/blog/lazy-deserialization</id>
         <link href="https://v8.dev/blog/lazy-deserialization"/>
         <updated>2018-02-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/lazy-deserialization">Lazy deserialization</a> <time datetime="2018-02-12">12 February 2018</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v6.5 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v6.5]]></title>
         <id>https://v8.dev/blog/v8-release-65</id>
         <link href="https://v8.dev/blog/v8-release-65"/>
         <updated>2018-02-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-65">V8 release v6.5</a> <time datetime="2018-02-01">01 February 2018</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimizing hash tables: hiding the hash code (V8 blog)]]></title>
+        <title type="html"><![CDATA[Optimizing hash tables: hiding the hash code]]></title>
         <id>https://v8.dev/blog/hash-code</id>
         <link href="https://v8.dev/blog/hash-code"/>
         <updated>2018-01-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/hash-code">Optimizing hash tables: hiding the hash code</a> <time datetime="2018-01-29">29 January 2018</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome welcomes Speedometer 2.0! (V8 blog)]]></title>
+        <title type="html"><![CDATA[Chrome welcomes Speedometer 2.0!]]></title>
         <id>https://v8.dev/blog/speedometer-2</id>
         <link href="https://v8.dev/blog/speedometer-2"/>
         <updated>2018-01-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/speedometer-2">Chrome welcomes Speedometer 2.0!</a> <time datetime="2018-01-24">24 January 2018</time> <a href="/blog/tags/benchmarks" class="tag">benchmarks</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v6.4 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v6.4]]></title>
         <id>https://v8.dev/blog/v8-release-64</id>
         <link href="https://v8.dev/blog/v8-release-64"/>
         <updated>2017-12-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-64">V8 release v6.4</a> <time datetime="2017-12-19">19 December 2017</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript code coverage (V8 blog)]]></title>
+        <title type="html"><![CDATA[JavaScript code coverage]]></title>
         <id>https://v8.dev/blog/javascript-code-coverage</id>
         <link href="https://v8.dev/blog/javascript-code-coverage"/>
         <updated>2017-12-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/javascript-code-coverage">JavaScript code coverage</a> <time datetime="2017-12-13">13 December 2017</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orinoco: young generation garbage collection (V8 blog)]]></title>
+        <title type="html"><![CDATA[Orinoco: young generation garbage collection]]></title>
         <id>https://v8.dev/blog/orinoco-parallel-scavenger</id>
         <link href="https://v8.dev/blog/orinoco-parallel-scavenger"/>
         <updated>2017-11-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/orinoco-parallel-scavenger">Orinoco: young generation garbage collection</a> <time datetime="2017-11-29">29 November 2017</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/memory" class="tag">memory</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taming architecture complexity in V8 — the CodeStubAssembler (V8 blog)]]></title>
+        <title type="html"><![CDATA[Taming architecture complexity in V8 — the CodeStubAssembler]]></title>
         <id>https://v8.dev/blog/csa</id>
         <link href="https://v8.dev/blog/csa"/>
         <updated>2017-11-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/csa">Taming architecture complexity in V8 — the CodeStubAssembler</a> <time datetime="2017-11-16">16 November 2017</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Announcing the Web Tooling Benchmark (V8 blog)]]></title>
+        <title type="html"><![CDATA[Announcing the Web Tooling Benchmark]]></title>
         <id>https://v8.dev/blog/web-tooling-benchmark</id>
         <link href="https://v8.dev/blog/web-tooling-benchmark"/>
         <updated>2017-11-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/web-tooling-benchmark">Announcing the Web Tooling Benchmark</a> <time datetime="2017-11-06">06 November 2017</time> <a href="/blog/tags/benchmarks" class="tag">benchmarks</a> <a href="/blog/tags/node.js" class="tag">Node.js</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v6.3 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v6.3]]></title>
         <id>https://v8.dev/blog/v8-release-63</id>
         <link href="https://v8.dev/blog/v8-release-63"/>
         <updated>2017-10-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-63">V8 release v6.3</a> <time datetime="2017-10-25">25 October 2017</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimizing ES2015 proxies in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Optimizing ES2015 proxies in V8]]></title>
         <id>https://v8.dev/blog/optimizing-proxies</id>
         <link href="https://v8.dev/blog/optimizing-proxies"/>
         <updated>2017-10-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/optimizing-proxies">Optimizing ES2015 proxies in V8</a> <time datetime="2017-10-05">05 October 2017</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/benchmarks" class="tag">benchmarks</a> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An internship on laziness: lazy unlinking of deoptimized functions (V8 blog)]]></title>
+        <title type="html"><![CDATA[An internship on laziness: lazy unlinking of deoptimized functions]]></title>
         <id>https://v8.dev/blog/lazy-unlinking</id>
         <link href="https://v8.dev/blog/lazy-unlinking"/>
         <updated>2017-10-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/lazy-unlinking">An internship on laziness: lazy unlinking of deoptimized functions</a> <time datetime="2017-10-04">04 October 2017</time> <a href="/blog/tags/memory" class="tag">memory</a> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Temporarily disabling escape analysis (V8 blog)]]></title>
+        <title type="html"><![CDATA[Temporarily disabling escape analysis]]></title>
         <id>https://v8.dev/blog/disabling-escape-analysis</id>
         <link href="https://v8.dev/blog/disabling-escape-analysis"/>
         <updated>2017-09-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/disabling-escape-analysis">Temporarily disabling escape analysis</a> <time datetime="2017-09-22">22 September 2017</time> <a href="/blog/tags/security" class="tag">security</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elements kinds in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Elements kinds in V8]]></title>
         <id>https://v8.dev/blog/elements-kinds</id>
         <link href="https://v8.dev/blog/elements-kinds"/>
         <updated>2017-09-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/elements-kinds"><i>Elements kinds</i> in V8</a> <time datetime="2017-09-12">12 September 2017</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/presentations" class="tag">presentations</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v6.2 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v6.2]]></title>
         <id>https://v8.dev/blog/v8-release-62</id>
         <link href="https://v8.dev/blog/v8-release-62"/>
         <updated>2017-09-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-62">V8 release v6.2</a> <time datetime="2017-09-11">11 September 2017</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast properties in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Fast properties in V8]]></title>
         <id>https://v8.dev/blog/fast-properties</id>
         <link href="https://v8.dev/blog/fast-properties"/>
         <updated>2017-08-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/fast-properties"><i>Fast properties</i> in V8</a> <time datetime="2017-08-30">30 August 2017</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[About that hash flooding vulnerability in Node.js… (V8 blog)]]></title>
+        <title type="html"><![CDATA[About that hash flooding vulnerability in Node.js…]]></title>
         <id>https://v8.dev/blog/hash-flooding</id>
         <link href="https://v8.dev/blog/hash-flooding"/>
         <updated>2017-08-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/hash-flooding">About that hash flooding vulnerability in Node.js…</a> <time datetime="2017-08-11">11 August 2017</time> <a href="/blog/tags/security" class="tag">security</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v6.1 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v6.1]]></title>
         <id>https://v8.dev/blog/v8-release-61</id>
         <link href="https://v8.dev/blog/v8-release-61"/>
         <updated>2017-08-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-61">V8 release v6.1</a> <time datetime="2017-08-03">03 August 2017</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v6.0 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v6.0]]></title>
         <id>https://v8.dev/blog/v8-release-60</id>
         <link href="https://v8.dev/blog/v8-release-60"/>
         <updated>2017-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-60">V8 release v6.0</a> <time datetime="2017-06-09">09 June 2017</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launching Ignition and TurboFan (V8 blog)]]></title>
+        <title type="html"><![CDATA[Launching Ignition and TurboFan]]></title>
         <id>https://v8.dev/blog/launching-ignition-and-turbofan</id>
         <link href="https://v8.dev/blog/launching-ignition-and-turbofan"/>
         <updated>2017-05-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/launching-ignition-and-turbofan">Launching Ignition and TurboFan</a> <time datetime="2017-05-15">15 May 2017</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v5.9 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v5.9]]></title>
         <id>https://v8.dev/blog/v8-release-59</id>
         <link href="https://v8.dev/blog/v8-release-59"/>
         <updated>2017-04-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-59">V8 release v5.9</a> <time datetime="2017-04-27">27 April 2017</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Retiring Octane (V8 blog)]]></title>
+        <title type="html"><![CDATA[Retiring Octane]]></title>
         <id>https://v8.dev/blog/retiring-octane</id>
         <link href="https://v8.dev/blog/retiring-octane"/>
         <updated>2017-04-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/retiring-octane">Retiring Octane</a> <time datetime="2017-04-12">12 April 2017</time> <a href="/blog/tags/benchmarks" class="tag">benchmarks</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v5.8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v5.8]]></title>
         <id>https://v8.dev/blog/v8-release-58</id>
         <link href="https://v8.dev/blog/v8-release-58"/>
         <updated>2017-03-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-58">V8 release v5.8</a> <time datetime="2017-03-20">20 March 2017</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast for-in in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Fast for-in in V8]]></title>
         <id>https://v8.dev/blog/fast-for-in</id>
         <link href="https://v8.dev/blog/fast-for-in"/>
         <updated>2017-03-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/fast-for-in">Fast <code>for</code>-<code>in</code> in V8</a> <time datetime="2017-03-01">01 March 2017</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[High-performance ES2015 and beyond (V8 blog)]]></title>
+        <title type="html"><![CDATA[High-performance ES2015 and beyond]]></title>
         <id>https://v8.dev/blog/high-performance-es2015</id>
         <link href="https://v8.dev/blog/high-performance-es2015"/>
         <updated>2017-02-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/high-performance-es2015">High-performance ES2015 and beyond</a> <time datetime="2017-02-17">17 February 2017</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Help us test the future of V8! (V8 blog)]]></title>
+        <title type="html"><![CDATA[Help us test the future of V8!]]></title>
         <id>https://v8.dev/blog/test-the-future</id>
         <link href="https://v8.dev/blog/test-the-future"/>
         <updated>2017-02-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/test-the-future">Help us test the future of V8!</a> <time datetime="2017-02-14">14 February 2017</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One small step for Chrome, one giant heap for V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[One small step for Chrome, one giant heap for V8]]></title>
         <id>https://v8.dev/blog/heap-size-limit</id>
         <link href="https://v8.dev/blog/heap-size-limit"/>
         <updated>2017-02-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/heap-size-limit">One small step for Chrome, one giant heap for V8</a> <time datetime="2017-02-09">09 February 2017</time> <a href="/blog/tags/memory" class="tag">memory</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v5.7 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v5.7]]></title>
         <id>https://v8.dev/blog/v8-release-57</id>
         <link href="https://v8.dev/blog/v8-release-57"/>
         <updated>2017-02-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-57">V8 release v5.7</a> <time datetime="2017-02-06">06 February 2017</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Speeding up V8 regular expressions (V8 blog)]]></title>
+        <title type="html"><![CDATA[Speeding up V8 regular expressions]]></title>
         <id>https://v8.dev/blog/speeding-up-regular-expressions</id>
         <link href="https://v8.dev/blog/speeding-up-regular-expressions"/>
         <updated>2017-01-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/speeding-up-regular-expressions">Speeding up V8 regular expressions</a> <time datetime="2017-01-10">10 January 2017</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/regexp" class="tag">RegExp</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How V8 measures real-world performance (V8 blog)]]></title>
+        <title type="html"><![CDATA[How V8 measures real-world performance]]></title>
         <id>https://v8.dev/blog/real-world-performance</id>
         <link href="https://v8.dev/blog/real-world-performance"/>
         <updated>2016-12-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/real-world-performance">How V8 measures real-world performance</a> <time datetime="2016-12-21">21 December 2016</time> <a href="/blog/tags/benchmarks" class="tag">benchmarks</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 ❤️ Node.js (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 ❤️ Node.js]]></title>
         <id>https://v8.dev/blog/v8-nodejs</id>
         <link href="https://v8.dev/blog/v8-nodejs"/>
         <updated>2016-12-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-nodejs">V8 ❤️ Node.js</a> <time datetime="2016-12-15">15 December 2016</time> <a href="/blog/tags/node.js" class="tag">Node.js</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v5.6 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v5.6]]></title>
         <id>https://v8.dev/blog/v8-release-56</id>
         <link href="https://v8.dev/blog/v8-release-56"/>
         <updated>2016-12-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-56">V8 release v5.6</a> <time datetime="2016-12-02">02 December 2016</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebAssembly browser preview (V8 blog)]]></title>
+        <title type="html"><![CDATA[WebAssembly browser preview]]></title>
         <id>https://v8.dev/blog/webassembly-browser-preview</id>
         <link href="https://v8.dev/blog/webassembly-browser-preview"/>
         <updated>2016-10-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/webassembly-browser-preview">WebAssembly browser preview</a> <time datetime="2016-10-31">31 October 2016</time> <a href="/blog/tags/webassembly" class="tag">WebAssembly</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v5.5 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v5.5]]></title>
         <id>https://v8.dev/blog/v8-release-55</id>
         <link href="https://v8.dev/blog/v8-release-55"/>
         <updated>2016-10-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-55">V8 release v5.5</a> <time datetime="2016-10-24">24 October 2016</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimizing V8 memory consumption (V8 blog)]]></title>
+        <title type="html"><![CDATA[Optimizing V8 memory consumption]]></title>
         <id>https://v8.dev/blog/optimizing-v8-memory</id>
         <link href="https://v8.dev/blog/optimizing-v8-memory"/>
         <updated>2016-10-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/optimizing-v8-memory">Optimizing V8 memory consumption</a> <time datetime="2016-10-07">07 October 2016</time> <a href="/blog/tags/memory" class="tag">memory</a> <a href="/blog/tags/benchmarks" class="tag">benchmarks</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v5.4 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v5.4]]></title>
         <id>https://v8.dev/blog/v8-release-54</id>
         <link href="https://v8.dev/blog/v8-release-54"/>
         <updated>2016-09-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-54">V8 release v5.4</a> <time datetime="2016-09-09">09 September 2016</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firing up the Ignition interpreter (V8 blog)]]></title>
+        <title type="html"><![CDATA[Firing up the Ignition interpreter]]></title>
         <id>https://v8.dev/blog/ignition-interpreter</id>
         <link href="https://v8.dev/blog/ignition-interpreter"/>
         <updated>2016-08-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/ignition-interpreter">Firing up the Ignition interpreter</a> <time datetime="2016-08-23">23 August 2016</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 at the BlinkOn 6 conference (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 at the BlinkOn 6 conference]]></title>
         <id>https://v8.dev/blog/blinkon-6</id>
         <link href="https://v8.dev/blog/blinkon-6"/>
         <updated>2016-07-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/blinkon-6">V8 at the BlinkOn 6 conference</a> <time datetime="2016-07-21">21 July 2016</time> <a href="/blog/tags/presentations" class="tag">presentations</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v5.3 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v5.3]]></title>
         <id>https://v8.dev/blog/v8-release-53</id>
         <link href="https://v8.dev/blog/v8-release-53"/>
         <updated>2016-07-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-53">V8 release v5.3</a> <time datetime="2016-07-18">18 July 2016</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v5.2 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v5.2]]></title>
         <id>https://v8.dev/blog/v8-release-52</id>
         <link href="https://v8.dev/blog/v8-release-52"/>
         <updated>2016-06-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-52">V8 release v5.2</a> <time datetime="2016-06-04">04 June 2016</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ES2015, ES2016, and beyond (V8 blog)]]></title>
+        <title type="html"><![CDATA[ES2015, ES2016, and beyond]]></title>
         <id>https://v8.dev/blog/modern-javascript</id>
         <link href="https://v8.dev/blog/modern-javascript"/>
         <updated>2016-04-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/modern-javascript">ES2015, ES2016, and beyond</a> <time datetime="2016-04-29">29 April 2016</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v5.1 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v5.1]]></title>
         <id>https://v8.dev/blog/v8-release-51</id>
         <link href="https://v8.dev/blog/v8-release-51"/>
         <updated>2016-04-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-51">V8 release v5.1</a> <time datetime="2016-04-23">23 April 2016</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jank Busters Part Two: Orinoco (V8 blog)]]></title>
+        <title type="html"><![CDATA[Jank Busters Part Two: Orinoco]]></title>
         <id>https://v8.dev/blog/orinoco</id>
         <link href="https://v8.dev/blog/orinoco"/>
         <updated>2016-04-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/orinoco">Jank Busters Part Two: Orinoco</a> <time datetime="2016-04-12">12 April 2016</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/memory" class="tag">memory</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v5.0 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v5.0]]></title>
         <id>https://v8.dev/blog/v8-release-50</id>
         <link href="https://v8.dev/blog/v8-release-50"/>
         <updated>2016-03-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-50">V8 release v5.0</a> <time datetime="2016-03-15">15 March 2016</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Experimental support for WebAssembly in V8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[Experimental support for WebAssembly in V8]]></title>
         <id>https://v8.dev/blog/webassembly-experimental</id>
         <link href="https://v8.dev/blog/webassembly-experimental"/>
         <updated>2016-03-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/webassembly-experimental">Experimental support for WebAssembly in V8</a> <time datetime="2016-03-15">15 March 2016</time> <a href="/blog/tags/webassembly" class="tag">WebAssembly</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RegExp lookbehind assertions (V8 blog)]]></title>
+        <title type="html"><![CDATA[RegExp lookbehind assertions]]></title>
         <id>https://v8.dev/blog/regexp-lookbehind-assertions</id>
         <link href="https://v8.dev/blog/regexp-lookbehind-assertions"/>
         <updated>2016-02-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/regexp-lookbehind-assertions">RegExp lookbehind assertions</a> <time datetime="2016-02-26">26 February 2016</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/regexp" class="tag">RegExp</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 extras (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 extras]]></title>
         <id>https://v8.dev/blog/v8-extras</id>
         <link href="https://v8.dev/blog/v8-extras"/>
         <updated>2016-02-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-extras">V8 extras</a> <time datetime="2016-02-04">04 February 2016</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v4.9 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v4.9]]></title>
         <id>https://v8.dev/blog/v8-release-49</id>
         <link href="https://v8.dev/blog/v8-release-49"/>
         <updated>2016-01-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-49">V8 release v4.9</a> <time datetime="2016-01-26">26 January 2016</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There’s Math.random(), and then there’s Math.random() (V8 blog)]]></title>
+        <title type="html"><![CDATA[There’s Math.random(), and then there’s Math.random()]]></title>
         <id>https://v8.dev/blog/math-random</id>
         <link href="https://v8.dev/blog/math-random"/>
         <updated>2015-12-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/math-random">There’s <code>Math.random()</code>, and then there’s <code>Math.random()</code></a> <time datetime="2015-12-17">17 December 2015</time> <a href="/blog/tags/ecmascript" class="tag">ECMAScript</a> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v4.8 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v4.8]]></title>
         <id>https://v8.dev/blog/v8-release-48</id>
         <link href="https://v8.dev/blog/v8-release-48"/>
         <updated>2015-11-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-48">V8 release v4.8</a> <time datetime="2015-11-25">25 November 2015</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jank Busters Part One (V8 blog)]]></title>
+        <title type="html"><![CDATA[Jank Busters Part One]]></title>
         <id>https://v8.dev/blog/jank-busters</id>
         <link href="https://v8.dev/blog/jank-busters"/>
         <updated>2015-10-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/jank-busters">Jank Busters Part One</a> <time datetime="2015-10-30">30 October 2015</time> <a href="/blog/tags/memory" class="tag">memory</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v4.7 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v4.7]]></title>
         <id>https://v8.dev/blog/v8-release-47</id>
         <link href="https://v8.dev/blog/v8-release-47"/>
         <updated>2015-10-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-47">V8 release v4.7</a> <time datetime="2015-10-14">14 October 2015</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Custom startup snapshots (V8 blog)]]></title>
+        <title type="html"><![CDATA[Custom startup snapshots]]></title>
         <id>https://v8.dev/blog/custom-startup-snapshots</id>
         <link href="https://v8.dev/blog/custom-startup-snapshots"/>
         <updated>2015-09-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/custom-startup-snapshots">Custom startup snapshots</a> <time datetime="2015-09-25">25 September 2015</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v4.6 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v4.6]]></title>
         <id>https://v8.dev/blog/v8-release-46</id>
         <link href="https://v8.dev/blog/v8-release-46"/>
         <updated>2015-08-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-46">V8 release v4.6</a> <time datetime="2015-08-28">28 August 2015</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting garbage collection for free (V8 blog)]]></title>
+        <title type="html"><![CDATA[Getting garbage collection for free]]></title>
         <id>https://v8.dev/blog/free-garbage-collection</id>
         <link href="https://v8.dev/blog/free-garbage-collection"/>
         <updated>2015-08-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/free-garbage-collection">Getting garbage collection for free</a> <time datetime="2015-08-07">07 August 2015</time> <a href="/blog/tags/internals" class="tag">internals</a> <a href="/blog/tags/memory" class="tag">memory</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code caching (V8 blog)]]></title>
+        <title type="html"><![CDATA[Code caching]]></title>
         <id>https://v8.dev/blog/code-caching</id>
         <link href="https://v8.dev/blog/code-caching"/>
         <updated>2015-07-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/code-caching">Code caching</a> <time datetime="2015-07-27">27 July 2015</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V8 release v4.5 (V8 blog)]]></title>
+        <title type="html"><![CDATA[V8 release v4.5]]></title>
         <id>https://v8.dev/blog/v8-release-45</id>
         <link href="https://v8.dev/blog/v8-release-45"/>
         <updated>2015-07-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/v8-release-45">V8 release v4.5</a> <time datetime="2015-07-17">17 July 2015</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digging into the TurboFan JIT (V8 blog)]]></title>
+        <title type="html"><![CDATA[Digging into the TurboFan JIT]]></title>
         <id>https://v8.dev/blog/turbofan-jit</id>
         <link href="https://v8.dev/blog/turbofan-jit"/>
         <updated>2015-07-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/turbofan-jit">Digging into the TurboFan JIT</a> <time datetime="2015-07-13">13 July 2015</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello, world! (V8 blog)]]></title>
+        <title type="html"><![CDATA[Hello, world!]]></title>
         <id>https://v8.dev/blog/hello-world</id>
         <link href="https://v8.dev/blog/hello-world"/>
         <updated>2015-07-10T00:00:00.000Z</updated>
