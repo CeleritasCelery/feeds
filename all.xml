@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://CeleritasCelery.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-21T05:38:56.469Z</updated>
+    <updated>2021-09-21T17:44:22.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[V8 release v9.5 (V8 blog)]]></title>
+        <id>https://v8.dev/blog/v8-release-95</id>
+        <link href="https://v8.dev/blog/v8-release-95"/>
+        <updated>2021-09-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/v8-release-95">V8 release v9.5</a> <time datetime="2021-09-21">21 September 2021</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V8 release v9.4 (V8 blog)]]></title>
         <id>https://v8.dev/blog/v8-release-94</id>
