@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://v8.dev/blog</id>
     <title>V8 blog</title>
-    <updated>2021-10-13T05:39:00.246Z</updated>
+    <updated>2021-10-13T17:44:01.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://v8.dev/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[V8 release v9.6]]></title>
+        <id>https://v8.dev/blog/v8-release-96</id>
+        <link href="https://v8.dev/blog/v8-release-96"/>
+        <updated>2021-10-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/v8-release-96">V8 release v9.6</a> <time datetime="2021-10-13">13 October 2021</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V8 release v9.5]]></title>
         <id>https://v8.dev/blog/v8-release-95</id>
