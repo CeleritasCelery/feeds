@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://v8.dev/blog</id>
     <title>V8 blog</title>
-    <updated>2021-10-29T17:44:01.027Z</updated>
+    <updated>2021-10-30T05:38:54.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://v8.dev/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WebAssembly Dynamic Tiering ready to try in Chrome 96]]></title>
+        <id>https://v8.dev/blog/wasm-dynamic-tiering</id>
+        <link href="https://v8.dev/blog/wasm-dynamic-tiering"/>
+        <updated>2021-10-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/wasm-dynamic-tiering">WebAssembly Dynamic Tiering ready to try in Chrome 96</a> <time datetime="2021-10-29">29 October 2021</time> <a href="/blog/tags/webassembly" class="tag">WebAssembly</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V8 release v9.6]]></title>
         <id>https://v8.dev/blog/v8-release-96</id>
