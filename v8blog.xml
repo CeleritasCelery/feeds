@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://v8.dev/blog</id>
     <title>V8 blog</title>
-    <updated>2022-01-10T05:42:05.317Z</updated>
+    <updated>2022-01-11T05:41:29.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://v8.dev/favicon.ico</icon>
     <entry>
