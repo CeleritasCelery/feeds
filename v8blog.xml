@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://v8.dev/blog</id>
     <title>V8 blog</title>
-    <updated>2022-01-31T05:38:51.118Z</updated>
+    <updated>2022-02-01T05:39:33.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://v8.dev/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[V8 release v9.9]]></title>
+        <id>https://v8.dev/blog/v8-release-99</id>
+        <link href="https://v8.dev/blog/v8-release-99"/>
+        <updated>2022-01-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/v8-release-99">V8 release v9.9</a> <time datetime="2022-01-31">31 January 2022</time> <a href="/blog/tags/release" class="tag">release</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oilpan library]]></title>
         <id>https://v8.dev/blog/oilpan-library</id>
