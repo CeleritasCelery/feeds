@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://v8.dev/blog</id>
     <title>V8 blog</title>
-    <updated>2022-04-20T05:55:01.937Z</updated>
+    <updated>2022-04-21T05:45:49.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://v8.dev/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Faster initialization of instances with new class features]]></title>
+        <id>https://v8.dev/blog/faster-class-features</id>
+        <link href="https://v8.dev/blog/faster-class-features"/>
+        <updated>2022-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/faster-class-features">Faster initialization of instances with new class features</a> <time datetime="2022-04-20">20 April 2022</time> <a href="/blog/tags/internals" class="tag">internals</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V8 release v9.9]]></title>
         <id>https://v8.dev/blog/v8-release-99</id>
